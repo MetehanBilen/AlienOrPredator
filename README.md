@@ -1,4 +1,5 @@
 # Alien Or Predator
+![İMG](https://github.com/MetehanBilen/AlienOrPredator/blob/main/img.png)
 This notebook includes Alien and Predator image classification with Convolution Neural Network.
 
 
